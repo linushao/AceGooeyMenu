@@ -2,7 +2,7 @@
 //  AceGooeyMenu.m
 //  BezierDemo1
 //
-//  Created by 魏诗豪 on 16/3/29.
+//  Created by AceWei on 16/3/29.
 //  Copyright © 2016年 AceWei. All rights reserved.
 //
 
